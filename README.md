@@ -1,6 +1,6 @@
 # chatbot-genai
 
-# 🤖 Simple Chatbot using OpenAI and Streamlit
+# 🤖 Chatbot using OpenAI and Streamlit
 
 This is a basic chatbot built with Streamlit and OpenAI GPT API.
 
